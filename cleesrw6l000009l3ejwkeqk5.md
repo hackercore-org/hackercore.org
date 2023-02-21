@@ -40,10 +40,12 @@ Esto significa que estás en el directorio /home/dawud. Este es tu directorio pe
 
 ## Cambiar de directorio
 
-El comando que se usa para cambiar de directorio es *cd* (change directory). Tenés que pasar por parámetro a qué otro directorio querés ir.
+El comando que se usa para cambiar de directorio es *cd* (change directory). Tenés que pasar por parámetro a qué otro directorio querés ir. Por ejemplo, si estás en tu directorio personal, en mi caso /home/dawud, y quieres ir al directorio Downloads que se encuentra ahí adentro. Sólo tienes que ejecutar el siguiente comando:
 
 ```bash
-cd
+cd Downloads
 ```
 
-Ponés el comando en la terminal, apretás enter, y te sal
+Esto es lo que se conoce como *ruta relativa*. No estoy pasando el camino (*path*) completo al directorio que quiero llegar, sino el camino desde el directorio donde me encuentro actualmente.
+
+## Conitnuará...
