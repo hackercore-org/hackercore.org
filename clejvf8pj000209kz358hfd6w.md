@@ -93,7 +93,7 @@ Las distribuciones más famosas que derivan directa o indirectamente de Debian s
 
 Desarrollada por la empresa Canonical, Ubuntu es la distribución de Linux más popular entre las computadoras de escritorio. Está basada en Debian y se caracteriza por contener gran variedad de drivers para diversos dispositivos, lo que lo hace fácil de instalar y configurar. Este motivo le dio mucha popularidad en la década del 2010 y continúa siendo una excelente opción. Hay versiones para escritorio y para servidores.
 
-La versión oficial viene con un Gnome como administrador de escritorio, pero hay varios sabores con diferentes escritorios. Los más famosos son Kubuntu con KDE Plasma y Xubuntu con XFCE.
+La versión oficial viene con Gnome como administrador de escritorio, pero hay varios sabores con diferentes escritorios. Los más famosos son Kubuntu con KDE Plasma y Xubuntu con XFCE.
 
 ### Pop!\_OS
 
