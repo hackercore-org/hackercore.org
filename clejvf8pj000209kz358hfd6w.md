@@ -1,7 +1,5 @@
 # Introducción a Linux
 
-# Introducción
-
 Linux es uno de los sistemas más usados del mundo. Lo podemos encontrar en computadoras personales, servidores, consolas de videojuegos y hasta en smartphones. Pero como sé que todo esto te suena a marketing barato, te paso algunos datos más concretos. Según [algunos especialistas](https://truelist.co/blog/linux-statistics/), Linux y sus derivados son usados por:
 
 * el 47% de los desarrolladores profesionales
