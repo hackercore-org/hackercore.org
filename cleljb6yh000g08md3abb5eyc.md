@@ -140,7 +140,7 @@ int main(void)
 }
 ```
 
-En C, como en muchos otros lenguajes, hay funciones. ¿Qué son? Ya lo vamos a ver. Pero en este momento lo que te puedo decir es que las funciones tienen un nombre, reciben un dato y devuelven otro. Esta función se llama `main` y recibe `void` como parametro, que básicamente significa "vacío". O sea, no recibe nada por parámetro. Los parámetros es lo que está adentro del paréntesis, pero como dije, vamos a verlo más adelante. Por otro lado, main devuelve un valor del tipo `int`, que quiere decir un número entero (*integer*). Todo lo que está entre llaves `{}` es lo que sucede dentro de la función main, se le dice que es el cuerpo de la función.
+En C, como en muchos otros lenguajes, hay funciones. ¿Qué son? Ya lo vamos a ver. Pero en este momento lo que te puedo decir es que las funciones tienen un nombre, reciben un dato y devuelven otro. Esta función se llama `main` y recibe `void` como parámetro, que significa "vacío". O sea, no recibe nada por parámetro. Los parámetros es lo que está adentro del paréntesis, pero como dije, vamos a verlo más adelante. Por otro lado, main devuelve un valor del tipo `int`, que quiere decir un número entero (*integer*). Todo lo que está entre llaves `{}` es lo que sucede dentro de la función main, se le dice que es el cuerpo de la función.
 
 Lo primero que se ejecuta al correr un programa hecho en C es la función `main`. Por lo tanto, si queremos que algo suceda en nuestro programa, tiene que estar ahí dentro.
 
